@@ -1,7 +1,7 @@
 # dotfiles
 configuration files 
 
-chromebook key remapings
-i3 config
-vimrc
-ect
+* chromebook key remapings
+* i3 config
+* vimrc
+* ect
