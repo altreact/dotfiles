@@ -1,0 +1,12 @@
+"b d"
+    m:0x4 + c:72
+    Control + XF86KbdBrightnessDown
+"b u"
+    m:0x4 + c:73
+    Control + XF86KbdBrightnessUp
+"sudo poweroff"
+    m:0x5 + c:124
+    Control + Shift + F11
+"sudo reboot"
+    m:0x4 + c:124
+    Control + F11
